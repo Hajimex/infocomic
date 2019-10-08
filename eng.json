@@ -1,0 +1,47 @@
+{
+    "first_header": "Homework and Crazy Dad",
+    "second_header": "Let's focus again",
+    "left_first_container": {
+        "first": "Taro is struggling on what to write",
+        "second": "I have no idea on my homework",
+        "third": "What should I do?"
+    },
+    "left_second_container": {
+        "first": "In addition, he doesn't have friends to ask",
+        "second": "I asked too many question already",
+        "third": "Emi disliked me, too"
+    },
+    "left_third_container": {
+        "first": "Father of Taro",
+        "second": "Hey, Taro. What are you doing? Let's go fishing together",
+        "third": "Wow",
+        "forth": "Oh, are you doing homework?"
+    },
+    "left_forth_container": {
+        "first": "I really wanna go girl fishing with you",
+        "second": "Why?!",
+        "third": "Oh, you meant Girls...",
+        "forth": "Do you hate me?!"
+    },
+    "right_first_container": {
+        "first": "After 20 hours of study, Taro seems understand",
+        "second": "Oh, this is already what I understand",
+        "third": "1+1=2, so 2+2=4..."
+    },
+    "right_second_container": {
+        "first": "The result of the exam...",
+        "second": "1+1=2, 1*1=2, 1/1=1, 1/2=0.5 ... Your score is 100 points!",
+        "third": "Aha",
+        "forth": "I made it"
+    },
+    "right_third_container": {
+        "first": "My recent reputation...",
+        "second": "Taro is so handsome!",
+        "third": "Could you go to cafe with me?"
+    },
+    "right_forth_container": {
+        "first": "Hey, dad!",
+        "second": "100",
+        "third": "I got good score, and great reputation from girls"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "first_header": "メール配信プラスの場合!",
+    "second_header": "MakeRepeaterの場合!",
+    "left_first_container": {
+        "first": "今週もメルマガ作らなきゃなぁメーけどメーけど…",
+        "second": "メーけど…",
+        "third": "クリック率とかわかんないんだよなあ…"
+    },
+    "left_second_container": {
+        "first": "本当は画像を入れたりしたいんだけど…",
+        "second": "ブログみたいにメールもつくれたらいいなあ",
+        "third": "HTMLなんてわかんないもんなあ"
+    },
+    "left_third_container": {
+        "first": "ある日上司から…",
+        "second": "いつもメール配信してるじゃんあれってどれぐらいの効果出てるの？",
+        "third": "レポれないの？？",
+        "forth": "ねえねえギクッ"
+    },
+    "left_forth_container": {
+        "first": "出したくても出せないんだもの…",
+        "second": "そういう機能なくて…",
+        "third": "何ソレ！？グラフとかで報告してよ",
+        "forth": "ねえねえギクッ"
+
+    },
+    "right_first_container": {
+        "first": "今週もメルマガ作らなきゃなぁ…",
+        "second": "メール配信プラスは安いけど…",
+        "third": "クリック率とかわかんないんだよなあ…"
+    },
+    "right_second_container": {
+        "first": "ある日上司から…",
+        "second": "いつもメール配信してるじゃんあれってどれぐらいの効果出てるの？",
+        "third": "レポートとか出してくれないの？？",
+        "forth": "ねえねえギクッ"
+    },
+    "right_third_container": {
+        "first": "ある日上司から…",
+        "second": "いつもってどれぐらいの効果出てるの？",
+        "third": "レポートとか出してくれないの？？"
+    },
+    "right_forth_container": {
+        "first": "ある日上司から…",
+        "second": "Report果出てるの？",
+        "third": "レポートとか出してくれないの？？"
+    }
+}
